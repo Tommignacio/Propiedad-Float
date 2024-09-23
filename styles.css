@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.column img {
+  max-width: 100%;
+  height: auto;
+  width: 200px; /* Ancho fijo */
+  height: 300px; /* Altura fija */
+}
+
+.clear {
+  clear: both;
+}
+
+p {
+  text-align: justify;
+}
